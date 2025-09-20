@@ -1,3 +1,5 @@
+# This is a application used to find the equation of a graph with 2 sets of (x;y) co-ordinates.
+
 import customtkinter as ctk
 import tkinter as tk
 
@@ -60,3 +62,4 @@ answer.place(relx=0.6, rely=0.3)
 
 # Run
 main_window.mainloop()
+
